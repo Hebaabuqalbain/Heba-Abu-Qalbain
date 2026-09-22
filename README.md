@@ -174,7 +174,7 @@ My long-term goal is to continue developing as a cybersecurity professional whil
 ## 📫 Connect With Me
 
 💼 **LinkedIn:**  
-[Heba Abu Qalbain](https://www.linkedin.com/in/heba-abuqalbain-652a45406/)
+[Heba Abu Qalbain](https://www.linkedin.com/in/heba-abu-qalbain-652a45406?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 📧 **Email:**  
 hebaabuqalbain06@gmail.com
