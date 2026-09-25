@@ -1,9 +1,8 @@
 # Hi, I'm Heba Abu Qalbain 👋
 
-### Cybersecurity Diploma Student | Junior Cybersecurity Trainee
+### Cybersecurity Diploma Graduate | Passionate about Software Development, Coding & AI | Seeking Training Opportunities
 
-🎓 **Diploma in Cybersecurity** at Hittien University College  
-🏛️ Affiliated with **Al-Balqa Applied University** | Jordan
+🎓 **Diploma in Cybersecurity** at **Al-Balqa Applied University** | Jordan
 
 I'm a Cybersecurity diploma student building a practical foundation in **cybersecurity, networking, Linux, programming, and web technologies** through academic coursework, hands-on labs, and technical practice.
 
