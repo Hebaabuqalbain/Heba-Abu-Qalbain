@@ -306,7 +306,7 @@ My goal is to gain practical experience, strengthen my technical foundation, and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heba%20Abu%20Qalbain-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/heba-abu-qalbain-652a45406?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
-💼 **LinkedIn:** [Heba Abu Qalbain]((https://www.linkedin.com/in/heba-abu-qalbain-652a45406?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+💼 **LinkedIn:** [Heba Abu Qalbain](https://www.linkedin.com/in/heba-abu-qalbain-652a45406?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 📧 **Email:** **hebaabuqalbain06@gmail.com**
 
